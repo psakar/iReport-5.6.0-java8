@@ -1,9 +1,7 @@
 
-This is the first release of iReport for NetBeans 6.0.
-iReport for NetBeans is available as standalone application based on the NetBeans RCP and as plugin for NetBeans IDE.
+This is the first release of iReport 5.6.0 for NetBeans 7.3 supporting java 8
 
-For more information about this project, please visit: http://www.jasperforge.org/ireort
-The source code for this application is available at http://www.jasperforge.org/ireport/src
+For more information about this project, please visit: http://www.jasperforge.org/ireport
 
 
 
